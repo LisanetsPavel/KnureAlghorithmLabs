@@ -1,3 +1,5 @@
+package lab3;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -52,7 +54,7 @@ public class Vertex {
 
     @Override
     public String toString() {
-        return "Vertex{" +
+        return "lab3.Vertex{" +
                 "num=" + num +
                 '}';
     }
